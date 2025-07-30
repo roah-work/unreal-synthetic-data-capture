@@ -40,11 +40,17 @@ A lightweight Unreal Engine editor-only tool for capturing high-resolution scree
 
 ## Example Output
 
-| Custom Stencil | Scene Depth | Base Color | Final Image |
-|----------------|-------------|------------|-------------|
-| ![Stencil](images/stencil.png) | ![Depth](images/depth.png) | ![Base](images/basecolor.png) | ![Final](images/final.png) |
+| RGB | Segmentation |
+|-----|--------------|
+| ![RGB](Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11.png) | ![Segmentation](Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_Segmentation.png) |
 
-> Replace `images/*.png` with your actual image paths.
+| Depth | World Normal |
+|-------|--------------|
+| ![Depth](Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_SceneDepth.png) | ![WorldNormal](Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_WorldNormal.png) |
+
+| Combined |
+|----------|
+| ![Combined](Docs/Screenshots/Combined_RGB_Semantic_Depth.png) |
 
 ---
 
@@ -69,7 +75,3 @@ Captures are done using `FHighResScreenshotConfig`. Adjust the Unreal Engine scr
 - Screenshot timing and multi-buffer capture logic can be extended via Ticker or buffer queue.
 
 ---
-
-## License
-
-MIT or custom licensing as applicable to your project.
