@@ -1,3 +1,6 @@
+## 2025 Update: 
+Project files may be out of date.
+
 # Unreal Engine Synthetic Data Capture Tool
 
 A lightweight Unreal Engine editor-only tool for capturing high-resolution screenshots and synthetic buffer visualizations such as custom stencil, depth, and base color using an in-editor actor.
