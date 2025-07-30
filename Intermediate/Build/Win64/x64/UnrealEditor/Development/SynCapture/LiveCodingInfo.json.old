@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SynCapture.cpp.obj": [
+			"SynCapture.init.gen.cpp.obj",
+			"SynCaptureEditorMode.gen.cpp.obj",
+			"SynCaptureInteractiveTool.gen.cpp.obj",
+			"SynCaptureSimpleTool.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"SynCaptureEditorMode.cpp.obj",
+			"SynCaptureEditorModeCommands.cpp.obj",
+			"SynCaptureEditorModeToolkit.cpp.obj",
+			"SynCaptureModule.cpp.obj",
+			"SynCaptureInteractiveTool.cpp.obj",
+			"SynCaptureSimpleTool.cpp.obj"
+		]
+	}
+}

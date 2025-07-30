@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personalprojects\\experiments\\plugins\\syncapture\\source\\syncapture\\private\\syncapturemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personalprojects\\experiments\\intermediate\\build\\win64\\x64\\experimentseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\personalprojects\\experiments\\plugins\\syncapture\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\syncapture\\definitions.syncapture.h",
+            "d:\\personalprojects\\experiments\\plugins\\syncapture\\source\\syncapture\\public\\syncapturemodule.h",
+            "d:\\personalprojects\\experiments\\plugins\\syncapture\\source\\syncapture\\public\\syncaptureeditormodecommands.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
