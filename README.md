@@ -38,19 +38,20 @@ A lightweight Unreal Engine editor-only tool for capturing high-resolution scree
 
 ---
 
-## Example Output
+## Capture Outputs
 
-| RGB | Segmentation |
-|-----|--------------|
-| ![RGB](Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11.png) | ![Segmentation](Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_Segmentation.png) |
-
-| Depth | World Normal |
-|-------|--------------|
-| ![Depth](Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_SceneDepth.png) | ![WorldNormal](Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_WorldNormal.png) |
 
 | Combined |
 |----------|
 | ![Combined](Docs/Screenshots/Combined_RGB_Semantic_Depth.png) |
+
+| RGB | Segmentation |
+|:---:|:------------:|
+| <img src="Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11.png" width="400"/> | <img src="Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_Segmentation.png" width="400"/> |
+
+| Depth | World Normal |
+|:-----:|:------------:|
+| <img src="Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_SceneDepth.png" width="400"/> | <img src="Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_WorldNormal.png" width="400"/> |
 
 ---
 
