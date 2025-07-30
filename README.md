@@ -53,7 +53,7 @@ A lightweight Unreal Engine editor-only tool for capturing high-resolution scree
 
 | RGB | Segmentation |
 |:---:|:------------:|
-| <img src="Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11.png" width="400"/> | <img src="Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_Segmentation.png" width="400"/> |
+| <img src="Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_RGB.png" width="400"/> | <img src="Docs/Screenshots/HighresScreenshot_2023.12.20-20.49.11_PPMI_Segmentation.png" width="400"/> |
 
 | Depth | World Normal |
 |:-----:|:------------:|
